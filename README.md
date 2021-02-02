@@ -1,2 +1,2 @@
 # fundamental-python
-belajar 
+print("hallo")
