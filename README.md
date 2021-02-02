@@ -1,2 +1,3 @@
 # fundamental-python
-print("hallo")
+print("hallo") \
+print("selamat pagi")
